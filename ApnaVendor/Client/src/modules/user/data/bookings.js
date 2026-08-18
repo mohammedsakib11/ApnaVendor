@@ -1,0 +1,26 @@
+export const bookings = [
+  {
+    id: "B-1001",
+    vendor: "Sharma Plumbing",
+    service: "Pipe Repair",
+    date: "27 May 2025",
+    time: "10:00 AM",
+    status: "Completed",
+    address: "Ahmedabad, Gujarat",
+    phone: "+91 98765 43210",
+    price: "₹500",
+    total: "₹550",
+  },
+  {
+    id: "B-1002",
+    vendor: "Perfect Painters",
+    service: "Wall Painting",
+    date: "24 May 2025",
+    time: "10:00 AM",
+    status: "Pending",
+    address: "Ahmedabad, Gujarat",
+    phone: "+91 98765 43210",
+    price: "₹500",
+    total: "₹550",
+  },
+];
