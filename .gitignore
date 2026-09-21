@@ -1,0 +1,23 @@
+# React
+Client/node_modules/
+Client/dist/
+
+# Python
+server/venv/
+server/**/__pycache__/
+*.pyc
+
+# Environment variables
+.env
+server/.env
+
+# Local database
+server/db.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
